@@ -1,2 +1,2 @@
 FROM runatlantis/atlantis
-COPY ./.terraformrc /root/
+COPY .terraformrc /root/
